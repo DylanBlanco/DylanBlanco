@@ -33,6 +33,9 @@
 
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylan&show_icons=true&theme=tokyonight)
 
+![GitHub Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=DylanBlanco&theme=tokyo-night&area=true&hide_border=true)
+
+
 ---
 
 ## 📫 Contatti
