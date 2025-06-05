@@ -30,7 +30,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanBlanco&layout=compact&theme=tokyonight)](https://github.com/DylanBlanco)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DylanBlanco&theme=tokyo-night)
-)
 
 ---
 
