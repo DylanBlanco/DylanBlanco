@@ -25,7 +25,12 @@
 
 ## 📈 GitHub Stats
 
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanBlanco&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DylanBlanco&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanBlanco&layout=compact&theme=tokyonight)](https://github.com/DylanBlanco)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DylanBlanco&theme=tokyo-night)
+)
 
 ---
 
