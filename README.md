@@ -31,7 +31,7 @@
 
 <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DylanBlanco&theme=tokyo-night) -->
 
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
